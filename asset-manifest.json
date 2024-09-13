@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/Simposio-Software/static/css/main.1b5606d5.css",
+    "main.js": "/Simposio-Software/static/js/main.e1f50c75.js",
+    "static/media/Image-Background.png": "/Simposio-Software/static/media/Image-Background.bfdcc877d26a4519a052.png",
+    "static/media/UFPA.png": "/Simposio-Software/static/media/UFPA.b6767c867e01f516b545.png",
+    "static/media/uepa.png": "/Simposio-Software/static/media/uepa.d26438320fb7dd93cc2b.png",
+    "static/media/Image-Speaker-2.png": "/Simposio-Software/static/media/Image-Speaker-2.01d9d234aec59c723407.png",
+    "static/media/Image-Speaker-1.png": "/Simposio-Software/static/media/Image-Speaker-1.291c7e399a4b8d56590e.png",
+    "static/media/Linuxtips.png": "/Simposio-Software/static/media/Linuxtips.b4a24a51f6c26339c927.png",
+    "static/media/Lele.png": "/Simposio-Software/static/media/Lele.77992b60c87341bb401d.png",
+    "static/media/ufra.png": "/Simposio-Software/static/media/ufra.29be21ef0ead7f1934fc.png",
+    "static/media/computador6.png": "/Simposio-Software/static/media/computador6.9ba467b4e725208e5e19.png",
+    "static/media/computador2.png": "/Simposio-Software/static/media/computador2.e0864a659389bf5500ed.png",
+    "static/media/computador9.png": "/Simposio-Software/static/media/computador9.1ff9b8b14e2be1a35e57.png",
+    "static/media/computador4.png": "/Simposio-Software/static/media/computador4.52d2983b13da3c6b7f7a.png",
+    "static/media/computador7.png": "/Simposio-Software/static/media/computador7.8a0b80613ad6ec6b5230.png",
+    "static/media/acai-com-dados.jfif": "/Simposio-Software/static/media/acai-com-dados.a12f100ae9c8e92d7282.jfif",
+    "static/media/devsNorte.webp": "/Simposio-Software/static/media/devsNorte.b99b25f75167fb182588.webp",
+    "static/media/Logo.svg": "/Simposio-Software/static/media/Logo.56ad59d23ceff242946a01628e79e275.svg",
+    "index.html": "/Simposio-Software/index.html",
+    "main.1b5606d5.css.map": "/Simposio-Software/static/css/main.1b5606d5.css.map",
+    "main.e1f50c75.js.map": "/Simposio-Software/static/js/main.e1f50c75.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b5606d5.css",
+    "static/js/main.e1f50c75.js"
+  ]
+}
